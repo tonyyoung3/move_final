@@ -1,0 +1,17 @@
+* {box-sizing: border-box;}
+
+.genre{
+  padding:5px;
+  border:3px;
+  margin:3px;
+  background-color:lightgrey
+  
+}
+
+.container{
+  margin:0;
+}
+
+#content{
+  margin:0
+}
